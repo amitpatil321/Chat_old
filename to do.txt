@@ -1,0 +1,5 @@
+1) server side validation
+2) smiley support
+3) grouping
+4) user cant send message to himself
+5) Dont combine messages if last message was not from logged in member
